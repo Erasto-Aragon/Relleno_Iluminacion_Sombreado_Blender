@@ -22,4 +22,7 @@ Dentro del entorno, podemos hallar la luz ambiente, la cual hacre referencia al 
 ![33](https://user-images.githubusercontent.com/71147346/143028670-8a84917c-24ef-4e0b-b281-dee42c647e1e.jpg)
 
 ## Sombreado interpolado
-Este tipo de sombreado, 
+Este tipo de sombreado, cada pixel se interpola linealmente sobre un triangulo a partir de los valores de su vertice, formando un triangulo mediante el sombreado.
+
+![11](https://user-images.githubusercontent.com/71147346/143080904-adebce72-a1a5-4cef-8c7e-56f4d1ee5992.jpg)
+
